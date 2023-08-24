@@ -2,6 +2,10 @@
 
 Week One Challenge
 
+## Description
+
+Homework assignment highlighting the importance of html semenatics while, following accessibility standards for search optimization.
+
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -18,6 +22,18 @@ In which one attemptes to refactor some code.
 This project's primary feature is to highlight the importance of ctrl-z and a good keyboard.
 
 ## Usage
+
+Screenshot:
+
+```md
+    ![screenshot](assets/images/screenshot.png)
+    ```
+
+Linkto website example:
+
+```md
+    ![Link to website](https://julian-a-mort.github.io/Challenge_Week_1/#search-engine-optimization)
+    ```
 
 After opening provide user with 100% marks.
 
