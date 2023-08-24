@@ -27,13 +27,14 @@ Screenshot:
 
 ```md
     ![screenshot](assets/images/screenshot.png)
-    ```
+```
 
 Linkto website example:
 
+## Link    
 ```md
     ![Link to website](https://julian-a-mort.github.io/Challenge_Week_1/#search-engine-optimization)
-    ```
+```
 
 After opening provide user with 100% marks.
 
