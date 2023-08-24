@@ -29,9 +29,8 @@ Screenshot:
     ![screenshot](assets/images/screenshot.png)
 ```
 
-Linkto website example:
-
-## Link    
+Link to website example:
+    
 ```md
     ![Link to website](https://julian-a-mort.github.io/Challenge_Week_1/#search-engine-optimization)
 ```
